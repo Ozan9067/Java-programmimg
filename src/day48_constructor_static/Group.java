@@ -5,11 +5,12 @@ import java.util.List;
 
 public class Group {
     private String groupName;
-    private List<String> members = new ArrayList<>();
+    private List<String> members;
 
     //constructor that accepts a name
     public Group(String name){
         this.groupName = name;
+        members = new ArrayList<>();
     }
 
     public void addMember(String newMember){
@@ -44,6 +45,8 @@ public class Group {
     public void setMembers(List<String> members) {
         this.members = members;
     }
+
+
 
 
 
