@@ -1,4 +1,4 @@
-package OfficeHours.Practice_25_05_2021;
+package OfficeHours.Practice_05_25_2021;
 
 public class Tic_Tac_Toe {
     public static void main(String[] args) {

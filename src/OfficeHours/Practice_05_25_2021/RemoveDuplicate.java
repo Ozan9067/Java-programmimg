@@ -1,4 +1,4 @@
-package OfficeHours.Practice_25_05_2021;
+package OfficeHours.Practice_05_25_2021;
 
 /*
 This method will take an ArrayList of numbers and remove any duplicates values.
