@@ -39,9 +39,9 @@ public class NotLogicalOperator {
         }
 
 
-        String carModel = "Tesla";
+        String carModel = "day53_inheritance/Tesla";
         // if its not a tesla im not interested
-        if (!carModel.equals("Tesla")){
+        if (!carModel.equals("day53_inheritance/Tesla")){
             System.out.println("not interested, thank you");
         }
 

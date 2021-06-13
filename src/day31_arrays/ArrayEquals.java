@@ -12,10 +12,10 @@ public class ArrayEquals {
         int[] nums5 = {54, 23, 54, 123, 54};
 
 
-        String[] cars1 = {"Toyota","Honda", "Tesla","BMW", "Dodge"};
-        String[] cars2 = {"Toyota","Honda", "Tesla","BMW", "Dodge"};
+        String[] cars1 = {"Toyota","Honda", "day53_inheritance/Tesla","BMW", "Dodge"};
+        String[] cars2 = {"Toyota","Honda", "day53_inheritance/Tesla","BMW", "Dodge"};
         String[] cars3 = {"toyota","honda", "tesla","bmw", "dodge"};
-        String[] cars4 = {"Toyota","Honda", "Tesla"};
+        String[] cars4 = {"Toyota","Honda", "day53_inheritance/Tesla"};
 
 
         System.out.println("nums1 == nums2 " + Arrays.equals(nums1, nums2));

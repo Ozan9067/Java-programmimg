@@ -76,7 +76,7 @@ public class StaticBlockDemo {
                 "SsangYong",
                 "Subaru",
                 "Suzuki",
-                "Tesla",
+                "day53_inheritance/Tesla",
                 "Toyota",
                 "Volkswagen",
                 "Volvo"));
